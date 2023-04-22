@@ -144,11 +144,4 @@ body {
     transform: scale(1.04);
     box-shadow: 0px 10px 40px -12px #00ff8052, 0px 15px 35px -15px rgba(0, 0, 0, 0.1);
 }
-@media only screen and (max-width: 767px) {
-  body {
-    font-size: 14px;
-    line-height: 1.3;
-  }
-}
-
   
